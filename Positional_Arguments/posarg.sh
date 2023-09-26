@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Hello $1 $2
+echo "You entered the argument: $1"
